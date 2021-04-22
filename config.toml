@@ -1,4 +1,4 @@
-baseURL = "https://sobit.org"
+baseURL = "https://www.sobit.org"
 title   = "Sobit.org"
 languageCode = "en-us"
 theme = "hello-friend"
@@ -159,11 +159,11 @@ disableHugoGeneratorInject = false
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
-#[menu]
-#  [[menu.main]]
-#    identifier = "cheatsheets"
-#    name       = "cheatsheets"
-#    url        = "cheatsheets/"
+[menu]
+  [[menu.main]]
+    identifier = "cheatsheets"
+    name       = "cheatsheets"
+    url        = "cheatsheets/"
 #  [[menu.main]]
 #    identifier = "presentations"
 #    name       = "presentations"
