@@ -1,19 +1,13 @@
 +++
 title = "About"
-date = "2014-04-09"
-aliases = ["about-us","about-hugo","contact"]
+date = "2020-4-22"
+aliases = ["about-us","contact"]
 [ author ]
-  name = "Hugo Authors"
+  name = "Sobit"
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+Sobit Dot Org.  
 
-It makes use of a variety of open source projects including:
+The Society of Beer and Information Technology
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
